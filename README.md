@@ -23,9 +23,17 @@ To show a proof of concept, we use an imaginary person whose biological data and
 
 ## Data preparation
 
-- The sensor will collect d
+- The sensor will collect biological data including heart rate variability, respiration rate, actigraphy, and skin conductance
+- The phone app will collect self-reported metrics obtained from visual pain analog, including facial and emotional scores; the third party caregivers can also make observations about eating, sleeping, social, and verbal patterns. 
+- Refer to Data-Pro.ipynb for data cleaning probabilty calculation. 
 
-Following the Jupyter notebook for a simple binary discrete Bayesian network
+## Modeling and inference
+- Given probabilities value, create a static binary discrete Bayesian network
+- Refer to TrackPain-Bayesian-Preliminary.ipynb for model creation and prediction
+
+## Future consideration 
+1. Make a continuous instead of discrete network
+2. following this pipeline, construct a dynamic network that fits all patients data
 
 
 
