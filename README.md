@@ -25,7 +25,7 @@ To show a proof of concept, we use an imaginary person whose biological data and
 
 - The sensor will collect biological data including heart rate variability, respiration rate, actigraphy, and skin conductance
 - The phone app will collect self-reported metrics obtained from visual pain analog, including facial and emotional scores; the third party caregivers can also make observations about eating, sleeping, social, and verbal patterns. 
-- Refer to [this notebook](https://github.com/yjzhang3/TrackPain/blob/main/TrackPain-Bayesian-Preliminary.ipynb) for data cleaning probabilty calculation. 
+- Refer to [this notebook](https://github.com/yjzhang3/TrackPain/blob/main/Data-Pro.ipynb) for data cleaning probabilty calculation. 
 
 ## Modeling and inference
 - Given probabilities value, create a static binary discrete Bayesian network
