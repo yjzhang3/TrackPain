@@ -36,6 +36,6 @@ To show a proof of concept, we use an imaginary person whose biological data and
 - following this pipeline, construct a dynamic network that fits all patients data
 
 ## Debug
-- Note that we are trying to solve the error in network creation. Insufficient or wrong dependence might not give predictions (see preliminary juypter notebook). 
+- Note that we are trying to solve the error in network creation. See [Issue Section](
 
 
