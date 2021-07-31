@@ -29,7 +29,7 @@ To show a proof of concept, we use an imaginary person whose biological data and
 
 ## Modeling and inference
 - Given probabilities value, create a static binary discrete Bayesian network
-- Refer to TrackPain-Bayesian-Preliminary.ipynb for model creation and prediction
+- Refer to [this notebook](https://github.com/yjzhang3/TrackPain/blob/main/TrackPain-Bayesian-Preliminary.ipynb) for model creation and prediction
 
 ## Future consideration 
 - Make a continuous instead of discrete network
