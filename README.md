@@ -32,8 +32,8 @@ To show a proof of concept, we use an imaginary person whose biological data and
 - Refer to TrackPain-Bayesian-Preliminary.ipynb for model creation and prediction
 
 ## Future consideration 
-1. Make a continuous instead of discrete network
-2. following this pipeline, construct a dynamic network that fits all patients data
+- Make a continuous instead of discrete network
+- following this pipeline, construct a dynamic network that fits all patients data
 
 
 
