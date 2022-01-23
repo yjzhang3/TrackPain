@@ -38,4 +38,6 @@ To show a proof of concept, we use an imaginary person whose biological data and
 ## Debug
 - Note that we are trying to solve the error in network creation. See [Issue Section](https://github.com/yjzhang3/TrackPain/issues).
 
+## Newest version on google colab
+- We've updated the model so it can make predictions now! Please check this link: https://colab.research.google.com/drive/1N4vU16H4AUoZejXxH6Op-ekH4pLF4KF3?authuser=1#scrollTo=GIaJfuIqr0E5
 
